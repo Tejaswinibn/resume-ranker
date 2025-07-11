@@ -1,0 +1,93 @@
+161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,
+
+Associate, Software Engineer
+
+MUST INCLUDE YOUR RESUME AND UNOFFICIAL TRANSCRIPT IN ONE PDF DOCUMENT IN THE ATTACHMENT SECTION WHEN YOU CREATE YOUR PROFILE TO APPLY.
+
+About Capital One Canada.
+
+For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates, and in talent like you!
+
+About The Team
+
+Yes, we’re a credit card company. But we’re more than that too. We’re driven by what our customers want, and how to make their lives simpler.
+
+We’re always looking for creative ways to offer digital solutions that make sense for our customers. With your help, we’ll build the next generation of banking in Canada based on customer-focused values, compelling products and great engineering.
+
+About The Role
+
+Our environment is creative, filled with teams that are passionate about the work they're doing and the people they are doing it for. We're a technology thought leader in the financial industry and we want to keep it that way.
+
+We have a passion for open-source and for working with the latest technologies. Whether you're a big Apple fan or an Android lover, a UI developer or prefer NoSQL databases over anything else, you'll fit in our team. All you need is to be passionate about technology!
+
+Our Associates are involved in business critical projects. Here are some examples.
+
+Improve user experience for Android / iOS customers
+Develop CI/CD pipelines to AWS cloud environment 
+Remediate and enhance cyber security
+Create front end applications with React and Angular. 
+Develop backend Microservice applications and APIs
+
+Think it. Code it.
+
+This is our motto! By that, we mean that you, as a member of one of our great Agile teams will be responsible for the design, coding, testing and delivery of solutions that benefit our customers and Canadians in general.
+
+Continuous Learning
+
+We’re here to help you develop your knowledge and skills, both on the job and in the classroom. Our engineers have access to incredible continuous learning tools and courses through our very own Tech College, a world-class learning hub that offers both online and in-person classes for across multiple disciplines—Cloud Computing, Cyber Security, Mobile Development, Machine Learning & AI, to name a few.
+
+As a new Software Engineer, you’ll join the Tech Development Program (TDP), which takes place over your first year with us and involves hands-on learning, development, and networking.
+
+Your Responsibilities: 
+
+Work as part of a dynamic team throughout the software development life cycle
+Collaborate with designers and analysts to implement enhancements or new applications 
+Develop code to meet story acceptance criteria 
+Conduct design and code reviews to ensure high-level quality output
+Ensure adherence to continuous improvement practices as required to meet quality, and time to market imperatives 
+Maintain records to document program development, and revisions 
+Provide third-level support of software solution as needed
+
+Basic Qualifications:
+
+Have obtained a Bachelor’s degree or higher between June 2024 to April 2025
+Good communication, presentation, and writing skills
+Good understanding of testing fundamentals
+Experience in unix or linux operating systems
+Able to work within a team setting and actively participate and collaborate in team discussions
+
+Preferred Qualifications:
+
+Experience in front end development such as JavaScript, HTML, mobile, frameworks such as React, Vue, Angular
+Knowledge of programming languages, including but not limited to Java, Python, JavaScript, NodeJS, Kotlin. 
+Experience with Jenkins CI/CD, microservices, API design / integration 
+Experience with version control technology i.e. Git
+Experience in a Linux/Unix environment with strong coding background. 
+
+Working at Capital One.
+
+Enjoy a hybrid work environment, with 3 days in the office. Build a comfortable workspace with our one-time, Work From Home allowance and enjoy our head office located conveniently across the street from Union Station.
+
+Live well—physically, financially and emotionally. Receive support for you and those who are most important to you, with full coverage for spouses, domestic partners, and dependents. With up to $3000 in mental health coverage and up to $5000 in tuition subsidies per year—and much more—you’ll discover that Capital One is committed to helping you live your best life.
+
+Capital One Canada is an equal opportunity employer committed to fostering a diverse and inclusive work environment. We consider all qualified applicants and will meet the needs of those requiring reasonable accommodations.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One’s recruiting process, please send an email to Careers@capitalone.com.
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+We may use your information for automated decision making. We may, for certain purposes, render a decision based exclusively on automated processing of your personal information as a part of the candidate screening process. 
+
+Capital One Canada is an equal opportunity employer committed to fostering a diverse and inclusive work environment. We consider all qualified applicants and will meet the needs of those requiring reasonable accommodations.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at ARCanada@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

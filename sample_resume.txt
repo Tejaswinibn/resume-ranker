@@ -1,0 +1,57 @@
+Languages: Java (8+), Python, JavaScript
+Frameworks & Backend: Spring Boot, Node.js, Flask, REST APIs, Microservices
+Frontend: React, HTML, CSS
+Databases: PostgreSQL, MySQL, MongoDB, Oracle, PL/SQL
+Cloud & DevOps: AWS, GCP, Docker, Git, GitLab CI/CD, Jenkins
+Testing & Tools: JUnit, Mockito, Postman, Swagger, JMeter, Selenium
+AI & Others: VertexAI, OpenAI APIs, VS Code, GitHub
+Software Engineer
+Tata Consultancy Services | Client: Aviva Insurance
+Developed and maintained backend services for insurance claims and policy systems (Aviva) using Java and Spring Boot.
+Collaborated with cross-functional teams to implement REST APIs and streamline data access across platforms.
+Monitored production clusters, reducing system downtime by 15% and improving ETL efficiency.
+Resolved 200+ Jira tickets on data pipeline and SQL optimization issues, reducing turnaround time.
+Application Development Analyst
+Oracle Certified
+Database Application Developer Seneca Polytechnic,Toronto,Canada Sept 2023-April 2025
+Oracle Certified
+Bachelor of Engineering in Computer Science
+Accenture Solutions Pvt Ltd
+Cloud Database Migration and Integration
+Advanced SQL, NoSQL Databases, Data Modeling, Software Development Lifecycle
+OCI Foundations Associate
+AWS Certified Cloud Practitioner
+Programming , Data Structures and Algorithm ,Computer Organization and Architecture , Operating Systems,
+Database Management Systems, Computer Networks, Theory of Computation, Web Technologies,Java
+Integrated serverless solutions and RESTful APIs for backend automation, collaborated across product and QA teams to
+streamline operations and reduce backend costs by 25%.Developed and optimized backend services using Java & Spring Boot,
+improving data pipeline performance by 30% and supporting scalable API integration
+Conducted load testing using JMeter, ensuring application scalability for 100K+ users.
+Jul 2022 – Jul 2023
+Aug 2021 – Jul 2022
+Canada
+tejuvashishta@gmail.com | linkedin.com/in/tejaswini-bn-a72682196 | +1 437-661-4051
+Tejaswini Bengaluru Narasimhamurthy
+PROFESSIONAL EXPERIENCE
+EDUCATION
+CERTIFICATIONS
+TECHNICAL SKILLS
+Projects
+AI Voice Journal | Flask, Python, OpenAI Whisper, SQLite, React
+Built a full-stack application where users can record voice notes that are transcribed
+using Whisper API and stored in a personal journal. Added keyword tagging and voice
+playback features.
+🔹 SDE relevance: Backend logic, AI integration, database storage, full stack.
+🔹 Highlights: OpenAI API, REST, audio handling.
+Resume Ranker App | Seneca Polytechnic
+Created an app that scores resumes against job descriptions using NLP. Users upload
+a resume + JD, and the tool ranks the match and suggests improvements.
+SDE relevance: Model building, REST API, text processing, UI.
+HR loves this—solves a real-world problem they deal with.
+Mini ChatGPT with Prompt Control–React, Flask, OpenAI GPT API
+Created a mini chatbot using OpenAI's GPT API with a frontend for prompt control and
+system instructions. Added custom themes and user authentication.
+SDE relevance: API integration, full stack design, prompt engineering.
+Software Engineer with 2+ years of experience building scalable backend systems and microservices using Java, Spring Boot, REST APIs, and Docker.
+Proficient in cloud deployment (AWS, GCP), database design (PostgreSQL, MongoDB), and CI/CD automation. Strong in problem-solving, performance
+optimization, and building real-world projects end-to-end using both traditional and AI-driven tools.
