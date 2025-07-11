@@ -42,3 +42,8 @@ A smart tool that analyzes and scores resumes based on a given job description u
 ```bash
 git clone https://github.com/tejaswinibn/resume-ranker.git
 cd resume-ranker
+
+
+Made with ❤️ by Tejaswini BN
+
+
