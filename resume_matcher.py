@@ -1,3 +1,10 @@
+import nltk
+
+# Automatically download NLTK data if not present
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')  # if you're using WordNetLemmatizer
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
